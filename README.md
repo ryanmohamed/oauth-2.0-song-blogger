@@ -3,4 +3,4 @@ Simple Backend for Internet Web &amp; Technologies that implements OAuth 2.0 for
 
 ![Sequence Diagram](https://i.ibb.co/5LYN2h8/sequencediagram.png)
 
-[Find a video walkthrough of the project on YouTube](https://youtu.be/W5jRcA1kydk)
+### Find a video walkthrough of the project [here.](https://youtu.be/W5jRcA1kydk)
