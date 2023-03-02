@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Project CS355 23671523</title>
+    <style>
+        *{
+            margin: 0;
+            text-align: center;
+        }
+        h1 {
+            background-color: springgreen;
+        }
+        h6{
+            background-color: #c9eec8;
+            margin-bottom: 5%;
+        }
+    </style>
+</head>
+<body>
+    
+    <!-- we use a get request because the data being submitted to server isnt really sensitive -->
+    <h1> song blogger </h1>
+    <h6> ryan mohamed cs355 project</h6>
+    <form action="submitted" method="get">
+        <input placeholder="artist" name="artist" type="text"></input>
+        <input placeholder="song" name="song" type="text"></input>
+        <input value="Submit query" type="submit">
+    </form>
+
+</body>
+</html>
